@@ -8,6 +8,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+/[Rr]ecordings/
 /[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
@@ -57,4 +58,35 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+# MacOS
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+Desktop.ini
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+Thumbs.db
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
 
